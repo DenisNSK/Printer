@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SystemPR4\SystemPR4\bin\Debug\SystemPR4.exe.config
+C:\Users\Lenovo\source\repos\SystemPR4\SystemPR4\bin\Debug\SystemPR4.exe
+C:\Users\Lenovo\source\repos\SystemPR4\SystemPR4\bin\Debug\SystemPR4.pdb
+C:\Users\Lenovo\source\repos\SystemPR4\SystemPR4\obj\Debug\SystemPR4.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SystemPR4\SystemPR4\obj\Debug\SystemPR4.Form1.resources
+C:\Users\Lenovo\source\repos\SystemPR4\SystemPR4\obj\Debug\SystemPR4.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\SystemPR4\SystemPR4\obj\Debug\SystemPR4.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\SystemPR4\SystemPR4\obj\Debug\SystemPR4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SystemPR4\SystemPR4\obj\Debug\SystemPR4.exe
+C:\Users\Lenovo\source\repos\SystemPR4\SystemPR4\obj\Debug\SystemPR4.pdb
